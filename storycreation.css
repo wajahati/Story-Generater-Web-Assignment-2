@@ -1,0 +1,47 @@
+body{
+  font-family: 'Genos', sans-serif;
+}
+.back
+{
+  color: #fff3d6;
+  text-align: center;
+}
+
+.top {
+  margin: 7% 0 0 0;
+}
+body
+{
+  background-color: #212121
+}
+
+label
+{
+  color: #fff3d6;
+}
+
+span
+{
+  color: black;
+  font-weight: bolder;
+  background-color: #f1e740;
+}
+#story
+{
+  color: white;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: #fff3d6;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
